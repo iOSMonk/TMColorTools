@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TMColorTools
 
 [![CI Status](https://img.shields.io/travis/iOSweepingMonk/TMColorTools.svg?style=flat)](https://travis-ci.org/iOSweepingMonk/TMColorTools)
@@ -27,3 +28,7 @@ iOSweepingMonk, 740305122@qq.com
 ## License
 
 TMColorTools is available under the MIT license. See the LICENSE file for more info.
+=======
+# TM_ColorTool
+颜色测试库
+>>>>>>> e5a6212c6a650e1502f93b6ce118f0bb5920e5c6
