@@ -1,0 +1,16 @@
+PODS:
+  - TMColorTools (0.1.0)
+
+DEPENDENCIES:
+  - TMColorTools (from `../`)
+
+EXTERNAL SOURCES:
+  TMColorTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TMColorTools: 3ad109292038713a68780ffbe821338f6747aeab
+
+PODFILE CHECKSUM: 80ec9edb30edf5a5edb6dc3701d70798b0d258c0
+
+COCOAPODS: 1.7.1
